@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "delay.h": "c",
+        "sfr_defs.h": "c",
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "adafruit_gfx.h": "c",
+        "wiring_private.h": "c",
+        "arduino.h": "c",
+        "gfxfont.h": "c",
+        "glcdfont.c": "cpp"
+    }
+}
